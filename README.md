@@ -3,7 +3,7 @@
 
 Currently only extracts URLs
 
-```shell
+```text
 usage: doDOI [-h] [-v] [-f [FILES ...]] [-d DIRECTORY]
 
 Parse PDFs to find DOI urls
